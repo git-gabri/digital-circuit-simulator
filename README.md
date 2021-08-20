@@ -11,7 +11,8 @@ And in the end `cmake --build .`
 You should now have an executable file called `simulator` in the `build` folder, that you can run using `./simulator`
 
 ### Help
-The help is built into the program itself. Just type `help` or `h` in the simulator console and a help menu will be printed on screen.
+The help is built into the program itself. Just type `help` or `h` in the simulator console and a help menu will be printed on screen.  
+To exit the program, use the command `q`, `quit` or `exit`.
 
 ### `circuit.hpp`
 The `circuit` class used in the simulator is thought to be independent from the rest of the code.
